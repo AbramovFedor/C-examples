@@ -1,10 +1,16 @@
-﻿int firstNum = 5;
-int secondNum = 7;
+﻿System.Console.WriteLine("Введите число: ");
+int firstNum = int.Parse(Console.ReadLine());
+System.Console.WriteLine("Введите число второе: ");
+int secondNum = int.Parse(Console.ReadLine());
 
 if (firstNum > secondNum){
 
-    Console.WriteLine(firstNum);
+    Console.Write(firstNum);
+    System.Console.Write(" больше чем ");
+    System.Console.Write(secondNum);
 }
 else{
-    Console.WriteLine(secondNum);
+    Console.Write(secondNum);
+    System.Console.Write(" больше чем ");
+    System.Console.Write(firstNum);
 }
