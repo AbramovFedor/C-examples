@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Фёдор\\OneDrive\\Рабочий стол\\Уроки\\C-examples\\Examples\\Exampl1\\Exampl1.csproj",
+      "projectUniqueName": "C:\\Users\\Фёдор\\OneDrive\\Рабочий стол\\Уроки\\C-examples\\Examples\\DzToFirstLesson2\\Exampl1.csproj",
       "projectName": "Exampl1",
-      "projectPath": "C:\\Users\\Фёдор\\OneDrive\\Рабочий стол\\Уроки\\C-examples\\Examples\\Exampl1\\Exampl1.csproj",
+      "projectPath": "C:\\Users\\Фёдор\\OneDrive\\Рабочий стол\\Уроки\\C-examples\\Examples\\DzToFirstLesson2\\Exampl1.csproj",
       "packagesPath": "C:\\Users\\Фёдор\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Фёдор\\OneDrive\\Рабочий стол\\Уроки\\C-examples\\Examples\\Exampl1\\obj\\",
+      "outputPath": "C:\\Users\\Фёдор\\OneDrive\\Рабочий стол\\Уроки\\C-examples\\Examples\\DzToFirstLesson2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Фёдор\\AppData\\Roaming\\NuGet\\NuGet.Config"
