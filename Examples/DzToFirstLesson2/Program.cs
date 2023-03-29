@@ -1,31 +1,22 @@
-﻿System.Console.WriteLine("Введите первое число: ");
+﻿System.Console.Write("Введите первое число: ");
 int firstNum = int.Parse(Console.ReadLine());
 
-System.Console.WriteLine("Введите число второе: ");
+System.Console.Write("Введите число второе: ");
 int secondNum = int.Parse(Console.ReadLine());
 
-System.Console.WriteLine("Введите третье число:");
+System.Console.Write("Введите третье число: ");
 int third = int.Parse(Console.ReadLine());
 
-//int Max()
-
-int[] array = {firstNum, secondNum, third};
-
-/*
-if (firstNum > secondNum){
-
-    if (firstNum > third){
-
-        System.Console.Write("Самое большое число: ");
-        Console.Write(firstNum);
-    
-    }else{
-    System.Console.Write("Самое большое число: ");
-    Console.Write(third);
+if (firstNum > secondNum && firstNum > third){
+    System.Console.WriteLine("Самое большое число: ", firstNum);
+    System.Console.WriteLine(firstNum);
 }
 
-}else{
-    System.Console.Write("Самое большое число: ");
-    Console.Write(secondNum);
+else if (secondNum > firstNum && secondNum > third){
+    System.Console.WriteLine("Самое большое число: ", secondNum);
+    System.Console.WriteLine(secondNum);
 }
-*/
+else if (third > firstNum && third > secondNum){
+    System.Console.WriteLine("Самое большое число: ");
+    System.Console.WriteLine(third);
+}
