@@ -1,0 +1,15 @@
+C:\Users\Фёдор\OneDrive\Рабочий стол\Уроки\C-examples\Examples\ThirdLesson3Ex\obj\Debug\net6.0\ThirdLesson3Ex.csproj.AssemblyReference.cache
+C:\Users\Фёдор\OneDrive\Рабочий стол\Уроки\C-examples\Examples\ThirdLesson3Ex\obj\Debug\net6.0\ThirdLesson3Ex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Фёдор\OneDrive\Рабочий стол\Уроки\C-examples\Examples\ThirdLesson3Ex\obj\Debug\net6.0\ThirdLesson3Ex.AssemblyInfoInputs.cache
+C:\Users\Фёдор\OneDrive\Рабочий стол\Уроки\C-examples\Examples\ThirdLesson3Ex\obj\Debug\net6.0\ThirdLesson3Ex.AssemblyInfo.cs
+C:\Users\Фёдор\OneDrive\Рабочий стол\Уроки\C-examples\Examples\ThirdLesson3Ex\obj\Debug\net6.0\ThirdLesson3Ex.csproj.CoreCompileInputs.cache
+C:\Users\Фёдор\OneDrive\Рабочий стол\Уроки\C-examples\Examples\ThirdLesson3Ex\bin\Debug\net6.0\ThirdLesson3Ex.exe
+C:\Users\Фёдор\OneDrive\Рабочий стол\Уроки\C-examples\Examples\ThirdLesson3Ex\bin\Debug\net6.0\ThirdLesson3Ex.deps.json
+C:\Users\Фёдор\OneDrive\Рабочий стол\Уроки\C-examples\Examples\ThirdLesson3Ex\bin\Debug\net6.0\ThirdLesson3Ex.runtimeconfig.json
+C:\Users\Фёдор\OneDrive\Рабочий стол\Уроки\C-examples\Examples\ThirdLesson3Ex\bin\Debug\net6.0\ThirdLesson3Ex.dll
+C:\Users\Фёдор\OneDrive\Рабочий стол\Уроки\C-examples\Examples\ThirdLesson3Ex\bin\Debug\net6.0\ThirdLesson3Ex.pdb
+C:\Users\Фёдор\OneDrive\Рабочий стол\Уроки\C-examples\Examples\ThirdLesson3Ex\obj\Debug\net6.0\ThirdLesson3Ex.dll
+C:\Users\Фёдор\OneDrive\Рабочий стол\Уроки\C-examples\Examples\ThirdLesson3Ex\obj\Debug\net6.0\refint\ThirdLesson3Ex.dll
+C:\Users\Фёдор\OneDrive\Рабочий стол\Уроки\C-examples\Examples\ThirdLesson3Ex\obj\Debug\net6.0\ThirdLesson3Ex.pdb
+C:\Users\Фёдор\OneDrive\Рабочий стол\Уроки\C-examples\Examples\ThirdLesson3Ex\obj\Debug\net6.0\ThirdLesson3Ex.genruntimeconfig.cache
+C:\Users\Фёдор\OneDrive\Рабочий стол\Уроки\C-examples\Examples\ThirdLesson3Ex\obj\Debug\net6.0\ref\ThirdLesson3Ex.dll
