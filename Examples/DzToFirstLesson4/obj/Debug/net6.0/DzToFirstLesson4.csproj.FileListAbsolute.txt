@@ -1,0 +1,15 @@
+C:\Users\Фёдор\OneDrive\Рабочий стол\Уроки\C-examples\Examples\DzToFirstLesson4\bin\Debug\net6.0\DzToFirstLesson4.exe
+C:\Users\Фёдор\OneDrive\Рабочий стол\Уроки\C-examples\Examples\DzToFirstLesson4\bin\Debug\net6.0\DzToFirstLesson4.deps.json
+C:\Users\Фёдор\OneDrive\Рабочий стол\Уроки\C-examples\Examples\DzToFirstLesson4\bin\Debug\net6.0\DzToFirstLesson4.runtimeconfig.json
+C:\Users\Фёдор\OneDrive\Рабочий стол\Уроки\C-examples\Examples\DzToFirstLesson4\bin\Debug\net6.0\DzToFirstLesson4.dll
+C:\Users\Фёдор\OneDrive\Рабочий стол\Уроки\C-examples\Examples\DzToFirstLesson4\bin\Debug\net6.0\DzToFirstLesson4.pdb
+C:\Users\Фёдор\OneDrive\Рабочий стол\Уроки\C-examples\Examples\DzToFirstLesson4\obj\Debug\net6.0\DzToFirstLesson4.csproj.AssemblyReference.cache
+C:\Users\Фёдор\OneDrive\Рабочий стол\Уроки\C-examples\Examples\DzToFirstLesson4\obj\Debug\net6.0\DzToFirstLesson4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Фёдор\OneDrive\Рабочий стол\Уроки\C-examples\Examples\DzToFirstLesson4\obj\Debug\net6.0\DzToFirstLesson4.AssemblyInfoInputs.cache
+C:\Users\Фёдор\OneDrive\Рабочий стол\Уроки\C-examples\Examples\DzToFirstLesson4\obj\Debug\net6.0\DzToFirstLesson4.AssemblyInfo.cs
+C:\Users\Фёдор\OneDrive\Рабочий стол\Уроки\C-examples\Examples\DzToFirstLesson4\obj\Debug\net6.0\DzToFirstLesson4.csproj.CoreCompileInputs.cache
+C:\Users\Фёдор\OneDrive\Рабочий стол\Уроки\C-examples\Examples\DzToFirstLesson4\obj\Debug\net6.0\DzToFirstLesson4.dll
+C:\Users\Фёдор\OneDrive\Рабочий стол\Уроки\C-examples\Examples\DzToFirstLesson4\obj\Debug\net6.0\refint\DzToFirstLesson4.dll
+C:\Users\Фёдор\OneDrive\Рабочий стол\Уроки\C-examples\Examples\DzToFirstLesson4\obj\Debug\net6.0\DzToFirstLesson4.pdb
+C:\Users\Фёдор\OneDrive\Рабочий стол\Уроки\C-examples\Examples\DzToFirstLesson4\obj\Debug\net6.0\DzToFirstLesson4.genruntimeconfig.cache
+C:\Users\Фёдор\OneDrive\Рабочий стол\Уроки\C-examples\Examples\DzToFirstLesson4\obj\Debug\net6.0\ref\DzToFirstLesson4.dll
