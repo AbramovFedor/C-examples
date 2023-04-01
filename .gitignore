@@ -1,3 +1,4 @@
 .pnj
 bin
 obj
+.csproj
