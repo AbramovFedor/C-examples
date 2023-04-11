@@ -19,6 +19,5 @@ void PrintArray(int [] numbers){
     System.Console.WriteLine(numbers[numbers.Length -1] + "]");
 }
 
-
 int [] numbers = CreateArray();
 PrintArray(numbers);
