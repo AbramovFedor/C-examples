@@ -1,4 +1,5 @@
-﻿Console.WriteLine("Array:");
+﻿
+Console.WriteLine("Array:");
 int[] array = ReadArray();
 
 Console.WriteLine(string.Join(';', array));
