@@ -6,7 +6,7 @@ int result = Mult(a);
 
 int Number(){
     System.Console.Write("Введите число: ");
-    int a = int.Parse(System.Console.ReadLine());
+    int a = int.Parse(System.Console.ReadLine()!);
     return a;
 }
 
