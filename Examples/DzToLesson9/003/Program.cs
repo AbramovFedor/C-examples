@@ -17,4 +17,4 @@ int Akker(int m, int n)
     }
 }
 
-System.Console.WriteLine(Akker(4,4));
+System.Console.WriteLine(Akker(3,2));
